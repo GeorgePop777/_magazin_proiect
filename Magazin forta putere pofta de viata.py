@@ -237,4 +237,4 @@ while True:
         break
 
     else:
-        print("Optiune invalida. Incearca din nou.")
+        print("Optiune invalida. Incearca din nou."
