@@ -1,11 +1,8 @@
-# Cafenea – Comenzi si Stoc
-
 produse = ["espresso", "latte", "cappuccino", "ceai", "ciocolata calda", "croissant"]
 preturi = [8.0, 12.0, 11.0, 7.0, 10.0, 9.0]
 stoc = [20, 15, 18, 30, 12, 10]
 cant_comanda = [0, 0, 0, 0, 0, 0]
 
-# retinem tipul reducerii selectate, nu doar valoarea
 tip_reducere_curenta = "fara"
 
 
