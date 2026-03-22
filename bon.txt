@@ -1,0 +1,7 @@
+========== BON FISCAL ==========
+ceai | cantitate: 10 | pret unitar: 7.00 lei | subtotal: 70.00 lei
+--------------------------------
+Total: 70.00 lei
+Reducere: 10.50 lei
+Total final: 59.50 lei
+================================
